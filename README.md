@@ -31,3 +31,5 @@ This repository contains:
 - Browser: Chrome
 - PayPal Sandbox
 - Local backend (Node.js)
+- Related project:
+https://github.com/yourusername/level-up-gaming
